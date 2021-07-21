@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @michelle-vaccaro
+- 👀 I’m interested in designing, developing, and deploying systems that leverage both human and artificial intelligence.
+- 📫 How to reach me: vaccaro@mit.edu
